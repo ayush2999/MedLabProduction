@@ -122,9 +122,9 @@ class About extends Component{
                     </div>
                     <div className="flip-card-back container">
                     <h1><strong>Dr. Manish</strong></h1>
-                    <h5>MBBS(DMCH) ,
+                    <h5>MBBS(DMCH)<br/>
                        M. D. Biochemistry (BHU) <br/><br/>Ex Resident Homi Bhobha Cancer Hospital Varanasi<br/><br/>
-                       Mahamana Pandit Madan Mohan Malviya Cancer Hospital Varanasi,Tata memorial center
+                       Mahamana Pandit Madan Mohan Malviya Cancer Hospital Varanasi<br/><br/>Tata memorial center
                       </h5>
                     </div>
                
